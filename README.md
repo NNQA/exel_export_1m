@@ -299,12 +299,10 @@ Open the generated Excel file and verify that the exported data is present.
 
 > 📸 **Screenshot:** Take a screenshot of the generated Excel file showing the exported records.
 
-```text
+
 <img width="1566" height="175" alt="image" src="https://github.com/user-attachments/assets/522cc48a-11d6-4a9e-a86b-8f9da9753c6a" />
 
 <img width="1291" height="740" alt="image" src="https://github.com/user-attachments/assets/53571b69-9648-470a-81a5-ff8dc462aa47" />
-
-```
 
 ---
 
